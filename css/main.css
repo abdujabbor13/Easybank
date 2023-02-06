@@ -266,6 +266,7 @@ img {
 
 .article-card__link {
   display: inline-block;
+  color: var(--black);
   text-decoration: none;
 }
 
